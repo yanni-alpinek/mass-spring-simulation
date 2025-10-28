@@ -147,4 +147,3 @@ In code (`Polaczenie.java`):
 
 * **Multiplayer Combat Game** - Real-time multiplayer game built with Spring Boot and JavaFX
 * **Fluid Simulation SPH** — Physics simulation with 1000+ particles 
-* **Real-Time Chat** - A real-time chat application using WebSockets for instant messaging
